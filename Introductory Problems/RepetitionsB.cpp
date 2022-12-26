@@ -23,3 +23,4 @@ int main() {
 	cout << best;
 	return 0;
 }
+// time complexity: O(n)
