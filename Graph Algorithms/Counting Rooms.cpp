@@ -1,6 +1,9 @@
 // time complexity: O(n*m)
 // space: O(n * m)
-
+/*
+classical "connected component counting" problem that can be solved with some kind of graph search algorithm, 
+such as depth-first search, breadth-first search or even floodfill. 
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
